@@ -1,0 +1,30 @@
+﻿Instalowanie zestawu 'D:\Programowanie\ReportService\exe\ReportService.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = D:\Programowanie\ReportService\exe\ReportService.InstallLog
+   assemblypath = D:\Programowanie\ReportService\exe\ReportService.exe
+Trwa instalowanie usługi ReportService...
+Usługa ReportService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog ReportService w dzienniku Application...
+Zatwierdzanie zestawu 'D:\Programowanie\ReportService\exe\ReportService.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = D:\Programowanie\ReportService\exe\ReportService.InstallLog
+   assemblypath = D:\Programowanie\ReportService\exe\ReportService.exe
+Odinstalowywanie zestawu 'D:\Programowanie\ReportService\exe\ReportService.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = D:\Programowanie\ReportService\exe\ReportService.InstallLog
+   assemblypath = D:\Programowanie\ReportService\exe\ReportService.exe
+Usuwanie źródła EventLog ReportService.
+Trwa usuwanie usługi ReportService z systemu...
+Usługa ReportService została pomyślnie usunięta z systemu.
+Odinstalowywanie zestawu 'D:\Programowanie\ReportService\exe\ReportService.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = D:\Programowanie\ReportService\exe\ReportService.InstallLog
+   assemblypath = D:\Programowanie\ReportService\exe\ReportService.exe
+Usuwanie źródła EventLog ReportService.
+Ostrzeżenie: źródło ReportService nie jest zarejestrowane na komputerze lokalnym.
+Trwa usuwanie usługi ReportService z systemu...
+Usługa ReportService została pomyślnie usunięta z systemu.

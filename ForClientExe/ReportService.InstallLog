@@ -1,0 +1,21 @@
+﻿Instalowanie zestawu 'D:\Programowanie\ReportService\ForClientExe\ReportService.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = D:\Programowanie\ReportService\ForClientExe\ReportService.InstallLog
+   assemblypath = D:\Programowanie\ReportService\ForClientExe\ReportService.exe
+Trwa instalowanie usługi ReportService...
+Usługa ReportService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog ReportService w dzienniku Application...
+Zatwierdzanie zestawu 'D:\Programowanie\ReportService\ForClientExe\ReportService.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = D:\Programowanie\ReportService\ForClientExe\ReportService.InstallLog
+   assemblypath = D:\Programowanie\ReportService\ForClientExe\ReportService.exe
+Odinstalowywanie zestawu 'D:\Programowanie\ReportService\ForClientExe\ReportService.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = D:\Programowanie\ReportService\ForClientExe\ReportService.InstallLog
+   assemblypath = D:\Programowanie\ReportService\ForClientExe\ReportService.exe
+Usuwanie źródła EventLog ReportService.
+Trwa usuwanie usługi ReportService z systemu...
+Usługa ReportService została pomyślnie usunięta z systemu.
