@@ -17,9 +17,6 @@ namespace ReportService.Core.Repositories
             {
                 new Error { Message = "Błąd testowy 1 !", Date = DateTime.Now },
                 new Error { Message = "Błąd testowy 2 !", Date = DateTime.Now }
-
-
-
             };
         }
     }
