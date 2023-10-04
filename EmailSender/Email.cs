@@ -30,7 +30,7 @@ namespace EmailSender
             _senderEmailPassword = emailParams.SenderEmailPassword;
             _senderName = emailParams.SenderName;
         }
-        public async Task Send(string subject, string body, string to)
+        public Task Send(string subject, string body, string to)
         {
             _mail = new MailMessage();
             _mail.From = new MailAddress(_senderEmail, _senderName);
@@ -64,7 +64,7 @@ namespace EmailSender
             };
 
             _smtp.SendCompleted += OnSendCompleted;
-            await _smtp.SendMailAsync(_mail); 
+            return _smtp.SendMailAsync(_mail); 
         }
 
         private void OnSendCompleted(object sender, System.ComponentModel.AsyncCompletedEventArgs e)
